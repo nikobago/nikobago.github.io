@@ -1,5 +1,3 @@
-# nikobago.github.io
+# Site
 
-Portfolio of Niko Bagović, embedded hardware & firmware engineer: https://nikobago.github.io
-
-Built output only. Every board image is rendered from the original Altium and KiCad design files with `kicad-cli`.
+Static build output. Not intended for indexing.
